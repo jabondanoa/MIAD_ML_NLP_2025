@@ -1,0 +1,13 @@
+# Python 3.10 compatible packages for tokenization and modeling
+pandas>=1.3
+numpy>=1.21
+scikit-learn>=1.1,<1.4
+matplotlib>=3.5
+scipy>=1.7
+
+# Para Jupyter y notebooks
+jupyterlab>=3.4
+notebook>=6.4
+
+# Solo si usas directamente URLs para cargar datos comprimidos
+requests>=2.26
